@@ -1,0 +1,91 @@
+<main id="main" class="main-page">
+
+    <!-- ======= Speaker Details Sectionn ======= -->
+    <section id="speakers-details">
+      <div class="container">
+        <div class="section-header">
+          <h2>Roomie gone Rogue</h2>
+          <p>Submission closes: 11:59pm 23rd March 2021.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <img src="https://images.hdqwalls.com/wallpapers/call-of-duty-mobile-50.jpg" alt="Speaker 1"
+              class="img-fluid">
+          </div>
+
+          <div class="col-md-6">
+            <div class="details">
+
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+
+              <p>
+              <h3>Rules:</h3>
+              <ul>
+                <li>
+                  This competition is only for students of IIT BOMBAY.
+                </li>
+                <li>
+                  Participant can submit a maximum of 3 photos.
+                </li>
+                <li>
+                  Hate speech, bullying and nudity is prohibited.
+                </li>
+                <li>
+                  Participants must be following @h9_iitb (hostel 9 instagram page)
+                </li>
+                <li>
+                  Submitted Photos will be posted on @h9_iitb ( hostel 9 instagram page)
+                </li>
+                <li>
+                  Participants can share their post on their pages too.
+                </li>
+                <li>
+                  These photos and videos will be deleted after the event from the page
+                </li>
+              </ul>
+              </p>
+
+              <p>
+              <h3>Submission Guidelines</h3>
+              <ul>
+                <li>
+                  DM the photos or videos with caption to H9’s <a href="https://www.instagram.com/h9_iitb/">official instagram handle</a>
+                </li>
+              </ul>
+              </p>
+              <p>
+              <h3>Prize/Incentive</h3>
+              <li>
+                Winner will get an Amazon voucher of Rs 500
+              </li>
+              </p>
+              <h3>Terms and Conditions</h3>
+              <ul>
+                <li>
+                  Any complaint by the person, in the photo or video will lead to removal of the entry.
+                </li>
+                <li>
+                  Hostel 9 Council reserves the right to change the above-mentioned rules and prizes without notifying
+                  the participants.
+                </li>
+              </ul>
+            </div>
+
+
+            In case of any queries contact:<br>
+            <b>Yash V. Patil</b> <br><b>Mobile: <a href="https://wa.me/919324277117"> +91 93242 77117
+              </a></b>
+
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+  </main><!-- End #main -->
